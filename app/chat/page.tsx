@@ -1,0 +1,20 @@
+import type { Metadata } from 'next'
+import ChatEmbed from '@/components/ChatEmbed'
+
+export const metadata: Metadata = {
+  title: 'Chat | SWSH.',
+  description: 'Chat with our assistant about products, sizing, orders, and returns.',
+}
+
+export default function ChatPage() {
+  return (
+    <div className="w-full max-w-[860px] mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <h1 className="text-4xl font-black uppercase tracking-tighter mb-2">Chat</h1>
+      <p className="text-gray-600 mb-8">
+        Ask us anything about products, sizing, orders, or returns.
+      </p>
+
+      <ChatEmbed agentKey="pk_03b207342c93ec8e8431244e4f108548" />
+    </div>
+  )
+}
