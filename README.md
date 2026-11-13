@@ -17,7 +17,7 @@ A bold, high-energy athletic footwear and apparel storefront built with Next.js 
 
 Want to create your own version of this project with all the content and structure? Clone this Cosmic bucket and code repository to get started instantly:
 
-[![Clone this Project](https://img.shields.io/badge/Clone%20this%20Project-29abe2?style=for-the-badge&logo=cosmic&logoColor=white)](https://app.cosmicjs.com/projects/new?clone_bucket=6a9b7a5d254225867de1da08&clone_repository=6a9b7c5a254225867de1da59)
+[![Clone this Project](https://img.shields.io/badge/Clone%20this%20Project-29abe2?style=for-the-badge&logo=cosmic&logoColor=white)](https://app.cosmicjs.com/projects/new?clone_bucket=6af75bb4a7198175fb56a0ad&clone_repository=6a9b7c5a254225867de1da59)
 
 ## Prompts
 
